@@ -16,9 +16,9 @@ class Config:
     PORT = environ.get("PORT", "8008")
     SESSION = environ.get('SESSION', 'Media_search')
     
-    API_ID = int(environ.get('API_ID', "12158462"))
-    API_HASH = environ.get('API_HASH', "0b962717d931f4480c46d56c85d409a5")
-    BOT_TOKEN = environ.get('BOT_TOKEN', '5591630365:AAHgi0CzdT3PNoPkiyHJBFycO9gUYr_D7co')
+    API_ID = int(environ.get('API_ID', "11760324"))
+    API_HASH = environ.get('API_HASH', "28c6f268d78f2890fd75d614c36a3136")
+    BOT_TOKEN = environ.get('BOT_TOKEN', '5814722044:AAFsDIZbbT5jQvsyUMPBtEtZ9q9z-JtVdng')
 
 
     CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -26,13 +26,13 @@ class Config:
 
 
     PICS = (environ.get('PICS', 'https://graph.org/file/26b49f7376b1ae3d0223d.jpg')).split()    
-    ADS = (environ.get("NOR_IMG", "https://telegra.ph/file/019c6642112620d0d59cb.jpg https://telegra.ph/file/f3c03737e838da72d5295.jpg")).split()
+    ADS = (environ.get("NOR_IMG", "")).split()
     NOR_IMG = ADS 
     MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/9e8955496d249439791f8.mp4")
     SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/26b49f7376b1ae3d0223d.jpg")
 
 
-    ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1348153685').split()]
+    ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1152620107').split()]
     
     CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '0').split()]
     auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
@@ -50,7 +50,7 @@ class Config:
 
 
 
-    DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://yoenaung:yya51910@cluster0.dqaesz6.mongodb.net/?retryWrites=true&w=majority")
+    DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://admin123:fbot123@cluster0.lgz1re3.mongodb.net/?retryWrites=true&w=majority")
     DATABASE_NAME = environ.get('DATABASE_NAME', "MKS")
     DATABASE_NAME2 = environ.get('DATABASE_NAME2', "MKS2")
     COLLECTION_NAME = environ.get('COLLECTION_NAME', 'CHANNEL')
