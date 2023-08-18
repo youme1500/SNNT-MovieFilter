@@ -38,11 +38,11 @@ class Config:
     auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
     AUTH_USERS = (auth_users + ADMINS) if auth_users else []
     
-    auth_channel = environ.get('AUTH_CHANNEL', "-1001696328436")
+    auth_channel = environ.get('AUTH_CHANNEL', "-1001909794874")
     auth_grp = environ.get('AUTH_GROUP')
     AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
     AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
-    support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1001827408500')
+    support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1001960004039')
     reqst_channel = environ.get('REQST_CHANNEL_ID')
     REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
     SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
@@ -85,7 +85,7 @@ class Config:
 ⭐️ ရုပ်ရှင်အဆင့်: {rating}/10  
 🎭 အမျိုးအစား: {genres}
     
-<a href='https://t.me/YNVIPMEMBERBOT'>⚠️အင်္ဂလိပ်စီးရီးနှင့် 🔞18+/21+ (လူကြီးကား) မန်ဘာဝင်ရန် ဤနေရာကိုနှိပ်ပါ။</a>
+<a href='</a>
     
 🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..Dr Yoe..』](t.me/YoeNaung)""")
     
