@@ -34,14 +34,14 @@ Contact :- @KOPAINGLAY15
 
 𝖣𝗈𝗇𝗍 𝖲𝗉𝖺𝗆 𝖬𝖾...🤒
 
-😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @YoeNaung"""
+😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @NobodyDeath"""
 
 
     VIP_LINK = "https://t.me/magicvideos007"
     
     ALL_LINK = "https://t.me/magicvideos007"
     
-    CH_LINK = ""
+    CH_LINK = "https://t.me/+iS-4pM5NjqIwNzA9"
     
     GP_LINK = "https://t.me/+iS-4pM5NjqIwNzA9"
 
