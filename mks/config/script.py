@@ -37,15 +37,15 @@ Contact :- @KOPAINGLAY15
 😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @YoeNaung"""
 
 
-    VIP_LINK = "https://t.me/YN_VIP_Series_ListAndPoster"
+    VIP_LINK = "https://t.me/magicvideos007"
     
-    ALL_LINK = "https://t.me/YNmovieone/7324"
+    ALL_LINK = "https://t.me/magicvideos007"
     
-    CH_LINK = "https://t.me/YNMovie_SeriesBank"
+    CH_LINK = ""
     
-    GP_LINK = "https://t.me/+XTScHquCH0A0ZTQ1"
+    GP_LINK = "https://t.me/+iS-4pM5NjqIwNzA9"
 
-    SUPPORT_LINK = "https://t.me/+XTScHquCH0A0ZTQ1"
+    SUPPORT_LINK = "https://t.me/+iS-4pM5NjqIwNzA9"
     
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -132,7 +132,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 𝖳𝗈𝗍𝖺𝗅 𝖢𝗁𝖺𝗍𝗌: <code>{}</code>
 𝖴𝗌𝖾𝖽 𝖲𝗍𝗈𝗋𝖺𝗀𝖾: <code>{}</code>
 
-<b>😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @YoeNaung</b>"""
+<b>😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @NobodyDeath</b>"""
 
     LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
@@ -205,7 +205,7 @@ Message <b>: {}</b>"""
     
 <a href='https://t.me/YNVIPMEMBERBOT'>⚠️အင်္ဂလိပ်စီးရီးနှင့် 🔞18+/21+ (လူကြီးကား) မန်ဘာဝင်ရန် ဤနေရာကိုနှိပ်ပါ။</a>
     
-🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..Dr Yoe..』](t.me/YoeNaung)"""
+🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..SNTT..』](t.me/NobodyDeath)"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
@@ -262,13 +262,13 @@ MKS """
 Special Thanks to LUCIFER for the codes 
 <b>DEV:</b>
 
-- <a href=https://t.me/YoeNaung>『..Dr Yoe..』</a>
+- <a href=https://t.me/NobodyDeath>『..SNTT..』</a>
 
-- Source - https://t.me/YNmovieone""" #please don't change repo link give credit :)
+- Source - https://t.me/NobodyDeath""" #please don't change repo link give credit :)
     
     
     ABOUT_TXT = """<b>○ 𝖬𝗒 𝖭𝖺𝗆𝖾: {}
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/YoeNaung'>Dr Yoe</a>
+○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/NobodyDeath'>SNTT</a>
 ○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
 ○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
 ○ 𝖲𝖾𝗋𝗏𝖾𝗋 : Contabo
