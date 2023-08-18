@@ -13,7 +13,7 @@ def is_enabled(value, default):
     
 class Config:
 
-    PORT = environ.get("PORT", "8008")
+    PORT = environ.get("PORT", "8001")
     SESSION = environ.get('SESSION', 'Media_search')
     
     API_ID = int(environ.get('API_ID', "16950780"))
