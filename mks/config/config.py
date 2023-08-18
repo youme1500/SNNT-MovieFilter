@@ -16,9 +16,9 @@ class Config:
     PORT = environ.get("PORT", "8008")
     SESSION = environ.get('SESSION', 'Media_search')
     
-    API_ID = int(environ.get('API_ID', "11760324"))
-    API_HASH = environ.get('API_HASH', "28c6f268d78f2890fd75d614c36a3136")
-    BOT_TOKEN = environ.get('BOT_TOKEN', '5814722044:AAFsDIZbbT5jQvsyUMPBtEtZ9q9z-JtVdng')
+    API_ID = int(environ.get('API_ID', "16950780"))
+    API_HASH = environ.get('API_HASH', "b2cc1795a8537e3e848fa8d0cb1fd503")
+    BOT_TOKEN = environ.get('BOT_TOKEN', '6416732582:AAEI9zc_NMLUzyRkmr3zPwwifwMaDF2ZVoQ')
 
 
     CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -32,7 +32,7 @@ class Config:
     SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/26b49f7376b1ae3d0223d.jpg")
 
 
-    ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1152620107').split()]
+    ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1777161435').split()]
     
     CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '0').split()]
     auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
@@ -42,7 +42,7 @@ class Config:
     auth_grp = environ.get('AUTH_GROUP')
     AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
     AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
-    support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1001960004039')
+    support_chat_id = environ.get('SUPPORT_CHAT_ID', '')
     reqst_channel = environ.get('REQST_CHANNEL_ID')
     REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
     SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
@@ -56,8 +56,8 @@ class Config:
     COLLECTION_NAME = environ.get('COLLECTION_NAME', 'CHANNEL')
     COLLECTION_NAME2 = environ.get('COLLECTION_NAME2', 'DM FILE')
 
-    LOG_CHANNEL = int(environ.get('LOG_CHANNEL', "-1001816794943"))
-    SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'YNmovieone')
+    LOG_CHANNEL = int(environ.get('LOG_CHANNEL', "-1001960004039"))
+    SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '')
 
     DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
     MAX_B_TN = environ.get("MAX_B_TN", "5")
@@ -87,7 +87,7 @@ class Config:
     
 <a href='</a>
     
-🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..Dr Yoe..』](t.me/YoeNaung)""")
+🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..SNTT..』](t.me/NobodyDeath)""")
     
     LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
     SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "False"), False)
